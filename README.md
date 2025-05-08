@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Dave
 
-##  💻  Full Stack Developer  |  👥  Team Lead
+## 💻 Full Stack Developer | 👥 Team Lead
 
-A seasoned full stack developer with 4 years of experience crafting robust applications and 2 years leading high-performing development teams of up to 14 developers.
+A seasoned full stack developer with 4 years of experience crafting robust applications and 2 years leading high-performing development teams of up to 12 developers.
 
 ### 🛠️ Tech Stack
 
 ```javascript
-const dave = {
+const whoami = {
   frontend: ['React', 'TypeScript', 'JavaScript', 'Micro Frontends', 'Reusable Component Systems'],
   backend: ['Node.js', 'GraphQL', 'RESTful APIs', 'Microservices'],
   architecture: ['System Design', 'Scalable Architecture', 'Multi-tenant Solutions'],
@@ -16,6 +16,11 @@ const dave = {
 ```
 
 ### 🏆 Key Projects
+
+- **Proprietary UI Component Library**
+  - Contributed to the development of a robust, reusable UI library 
+  - Implemented components used across multiple micro frontend applications
+  - Established design patterns promoting consistency and developer efficiency
 
 - **Multi-tenant Micro Frontend & Microservices Platform**
   - Architected and implemented a scalable solution with isolated tenant experiences
@@ -38,7 +43,7 @@ const dave = {
 
 ### 🚀 Leadership
 
-- Led cross-functional teams of up to 14 developers
+- Led cross-functional teams of up to 12 developers
 - Mentored junior developers and established engineering best practices
 - Facilitated agile processes and technical planning to ensure project success
 
