@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer | 👥 Team Lead
 
-A seasoned full stack developer with 4 years of experience crafting robust applications and 2 years leading high-performing development teams of up to 12 developers.
+A seasoned full stack developer with 5 years of experience crafting robust applications and 2 years leading high-performing development teams of up to 14 developers.
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ const whoami = {
 
 ### 🚀 Leadership
 
-- Led cross-functional teams of up to 12 developers
+- Led cross-functional teams of up to 14 developers
 - Mentored junior developers and established engineering best practices
 - Facilitated agile processes and technical planning to ensure project success
 
