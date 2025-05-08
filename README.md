@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dave
 
-## 💻 Full Stack Developer | 👥 Team Lead
+##  💻  Full Stack Developer  |  👥  Team Lead
 
 A seasoned full stack developer with 4 years of experience crafting robust applications and 2 years leading high-performing development teams of up to 14 developers.
 
