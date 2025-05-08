@@ -11,6 +11,7 @@ const whoami = {
   frontend: ['React', 'TypeScript', 'JavaScript', 'Micro Frontends', 'Reusable Component Systems'],
   backend: ['Node.js', 'GraphQL', 'RESTful APIs', 'Microservices'],
   architecture: ['System Design', 'Scalable Architecture', 'Multi-tenant Solutions'],
+  aiTools: ['AI-Assisted Development', 'Code Generation', 'Workflow Optimization'],
   currentlyLearning: ['Advanced System Design Patterns', 'Architecture at Scale']
 };
 ```
@@ -38,6 +39,7 @@ const whoami = {
 
 - Creating lean, reusable frontend component systems with a focus on performance
 - Building scalable application architectures that accommodate business growth
+- Leveraging AI tools to enhance development workflows and productivity
 - Leading development teams through complex technical challenges
 - Currently expanding expertise in system design and architectural patterns
 
